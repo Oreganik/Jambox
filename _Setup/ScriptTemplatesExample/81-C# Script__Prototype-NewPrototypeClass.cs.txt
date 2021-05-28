@@ -1,0 +1,18 @@
+﻿// GAME JAM PROJECT
+// Prototype Application
+// Copyright (c) 2020 Ted Brown
+
+using Jambox;
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+namespace Prototype
+{
+	/// <summary>
+	/// 
+	/// </summary>
+	public class #SCRIPTNAME# : MonoBehaviour 
+	{
+	}
+}
